@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jerusalem Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slides_text1">Al-Aqsa Mosque</string>
+    <string name="slides_text2">Al-Buraq Wall</string>
+    <string name="slides_text3">Alqiama Charch</string>
+    <string name="main_channel">Main Channel</string>
+</resources>
